@@ -1,2 +1,8 @@
-# Spotidy Music App
+# Spotify Music App
+
+# Technologies Used
+
+> Html
+> Css
+> JavaScript
 
